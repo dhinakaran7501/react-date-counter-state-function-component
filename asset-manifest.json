@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-date-counter-state-function-component/static/css/main.1f4dd697.css",
+    "main.js": "/react-date-counter-state-function-component/static/js/main.7e17dc83.js",
+    "index.html": "/react-date-counter-state-function-component/index.html",
+    "main.1f4dd697.css.map": "/react-date-counter-state-function-component/static/css/main.1f4dd697.css.map",
+    "main.7e17dc83.js.map": "/react-date-counter-state-function-component/static/js/main.7e17dc83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f4dd697.css",
+    "static/js/main.7e17dc83.js"
+  ]
+}
